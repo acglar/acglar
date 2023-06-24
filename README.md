@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer</h3>
 
 - 🔭 I’m currently working on a **Idle Tycoon Game**
-- 🌱 I’m currently learning **iOS Development** and **CI/CD**
+- 🌱 I’m currently learning **iOS Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
